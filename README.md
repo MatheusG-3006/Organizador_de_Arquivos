@@ -48,7 +48,7 @@ Nenhuma biblioteca externa é necessária. O projeto utiliza apenas `os` e `shut
 
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/organizador-de-arquivos.git
+git clone https://github.com/MatheusG-3006/organizador-de-arquivos.git
 ```
 
 Acesse a pasta:
